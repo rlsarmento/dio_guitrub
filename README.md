@@ -1,2 +1,5 @@
-### dio_guitrub
-Primeiro repositório Guit
+# dio_guitrub
+#
+### Primeiro repositório Guit
+#
+### 	** Rogério Luiz Sarmento **
